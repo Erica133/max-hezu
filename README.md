@@ -3,6 +3,7 @@
 对于许多学生来说，流媒体平台已经成为放松和娱乐的必备选择。而HBO Max（现在称为Max）作为全球领先的流媒体平台之一，提供了丰富的影视内容，包括原创剧集、电影、纪录片等。如果你是一名学生，现在有一个不可错过的机会，可以通过Max的学生折扣以更低的价格订阅平台。
 
 今天，我将带你详细了解如何通过Max的学生折扣，享受每月$4.99的优惠价，并且在这篇文章中，我还将介绍一个额外的节省方式——通过[FamilyPro](https://familypro.io?invite=IW062920)拼团网站，获得更实惠的MAX订阅！让我们一起来看看如何在这两者之间找到最优方案。
+![MAX](/image5/哈利波特.jpeg)
 
 ## 一、 MAX提供学生折扣吗？
 
@@ -20,9 +21,11 @@
 
 ### 步骤1：访问Max学生折扣页面
 首先，打开Max的学生折扣页面，这是你开始享受优惠的入口。
+![MAX](/image5/image1.png)
 
 ### 步骤2：点击“Get the deal”按钮
 在页面中，你会看到一个“Get the deal”按钮，点击这个按钮后，你将被带到UNiDAYS网站。
+![MAX](/image5/image2.png)
 
 ### 步骤3：创建或登录UNiDAYS账户
 在UNiDAYS页面，你需要创建一个账户或登录现有账户。以下是注册UNiDAYS账户的步骤：
@@ -31,6 +34,7 @@
 3. 输入你的个人（非学生）电子邮件，设置密码，并同意UNiDAYS的服务条款，点击“Join now”。
 4. 完成身份验证：输入你的姓名、性别、出生日期、学校和学生邮箱，并点击“提交”。
 5. 接着，你将收到一封验证邮件，点击邮件中的链接完成身份验证。
+   ![MAX](/image5/image3.png)
 
 ### 步骤4：激活折扣
 完成UNiDAYS的注册和身份验证后，你将能看到一个“Activate discount”的按钮，点击它后，你会被引导至Max网站来兑换折扣码。
@@ -40,12 +44,14 @@
 
 ### 步骤6：选择支付方式
 在确认折扣信息后，你需要选择支付方式。你可以使用信用卡、借记卡或PayPal账户进行支付。支付成功后，你将获得12个月的Max订阅，价格为$4.99/月。如果你已经有一个有效的Max订阅，可能不需要再次输入支付信息。
+![MAX](/image5/image4.png)
 
 ## 三、如果我不是学生，我可以获取学生折扣吗？
 
 不可以，不是学生就不能通过UNiDAYS平台的验证，因此就不可以获取到Max的折扣兑换码。
 
 虽然你不能享受Max的学生折扣，但是在FamilyPro中你依然可以通过更便宜的价格购买MAX。
+![MAX](/image5/maxprice.jpeg)
 
 ## 四、 MAX 的官方学生折扣与FamilyPro折扣有什么不同？
 
@@ -62,4 +68,7 @@
 ## 我能从[FamilyPro](https://familypro.io?invite=IW062920)获取什么？
 
 [FamilyPro](https://familypro.io?invite=IW062920)提供MAX折扣计划，让每个人都能以更低的价格随时享受高品质影视资源。还有什么？除了MAX学生折扣外，FamilyPro还提供许多其他产品的折扣订阅价格，例如ChatGPT学生折扣、Disney+、Netflix、HBO Max、Canva和Duolingo折扣。
- [去购买](https://familypro.io?invite=IW062920)
+
+<a href= "https://familypro.io?invite=IW062920"
+   style="display: inline-block; background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; font-size: 16px; border-radius: 5px;">去购买</a >
+   
