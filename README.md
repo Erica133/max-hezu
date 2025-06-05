@@ -69,5 +69,5 @@
 
 [FamilyPro](https://familypro.io?invite=IW062920)提供MAX折扣计划，让每个人都能以更低的价格随时享受高品质影视资源。还有什么？除了MAX学生折扣外，FamilyPro还提供许多其他产品的折扣订阅价格，例如ChatGPT学生折扣、Disney+、Netflix、HBO Max、Canva和Duolingo折扣。
 
-#### [去购买](https://familypro.io?invite=IW062920)
+### [去购买](https://familypro.io?invite=IW062920)
    
